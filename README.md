@@ -1,6 +1,12 @@
 ![logo](
-<img align="right" alt="coding" width="650" height="300" border-radius-full
-src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/470883881_612664521424210_2515108645694001091_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGaCxupgUXllXUrySPUcxltPnzYdwhxHP0-fNh3CHEc_WFxv9Hm1XGkw0ZDWAtjiesvrbOoIBO5sTt_FNEkJecE&_nc_ohc=vE41XMem4loQ7kNvgEYt-JW&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AC35VgGhzjPnBIuS2foMIa1&oh=00_AYD0OAwD1faPGPtWuq8LVS_7MAvaDv8JjJgIKwnUjpMGCg&oe=676E4853">
+<img 
+  src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/470883881_612664521424210_2515108645694001091_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGaCxupgUXllXUrySPUcxltPnzYdwhxHP0-fNh3CHEc_WFxv9Hm1XGkw0ZDWAtjiesvrbOoIBO5sTt_FNEkJecE&_nc_ohc=vE41XMem4loQ7kNvgEYt-JW&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AC35VgGhzjPnBIuS2foMIa1&oh=00_AYD0OAwD1faPGPtWuq8LVS_7MAvaDv8JjJgIKwnUjpMGCg&oe=676E4853" 
+  alt="coding" 
+  width="650" 
+  height="300"
+  style="border-radius: 50%; object-fit: cover;"
+/>
+
 )
 <h1 align="center">Assalamualaikum 👋, I'm Majharul Islam kobir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
