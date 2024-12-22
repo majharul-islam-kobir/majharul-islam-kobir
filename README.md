@@ -2,7 +2,7 @@
 <h1 align="center">Assalamualaikum 👋, I'm Majharul Islam kobir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="620" height="300"
+<img align="right" alt="coding" width="650" height="300"
 src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/470991091_612666768090652_717279334157581169_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEifRuqHV664ZNbsFE5Kc35nvzwu34zXiae_PC7fjNeJsGSQPC3MZmZeUB8HeDFfpTzvFGqrNlL5NPVZu-LFp7Q&_nc_ohc=mz9Amv0LzXQQ7kNvgEydZMD&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AmzjbepZuoDXKYvPD1NLvr5&oh=00_AYD6IJfcYiLsKkxjiz5MaWMaZ02f47Ry9bHXdt-vulqw4w&oe=676E24E8">
 
 - 🔭 I’m currently working on **ver ai**
