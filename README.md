@@ -1,6 +1,6 @@
-### Hi there 👋, Assalamualaikum 👋, I'm Majharul Islam kobir
-#### I'm a passionate front-end developer from Bangladesh
 ![I'm a passionate front-end developer from Bangladesh](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/470991091_612666768090652_717279334157581169_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEifRuqHV664ZNbsFE5Kc35nvzwu34zXiae_PC7fjNeJsGSQPC3MZmZeUB8HeDFfpTzvFGqrNlL5NPVZu-LFp7Q&_nc_ohc=Db7DfAozo40Q7kNvgGX7ZNx&_nc_zt=23&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AK8_NVBozdX6b06VzJkLEru&oh=00_AYCp1PitRqasU69E1qyW0z8d5VwKlyMO19pDCIQ3OvQhHw&oe=678C7768)
+# Assalamualaikum 👋, I'm Majharul Islam kobir
+## I'm a passionate front-end developer from Bangladesh
 
 Passionate about blending Islamic studies with front-end development. I aim to apply my software development and communication skills to contribute effectively to a dynamic, growth-oriented environment.
 
