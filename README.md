@@ -1,61 +1,83 @@
 ![Majharul Islam Kabir - Front-End Developer from Bangladesh](https://avatars.githubusercontent.com/u/178319632?s=400&u=48e118c88c1c78c3d5c8c7d8a0bd6aa7fcb66517&v=4)
 
+<h1 align="center">Assalamualaikum 👋, I'm Majharul Islam Kabir</h1>
+<h3 align="center">💻 Passionate Front-End Developer from Bangladesh 🌏</h3>
 
-# Assalamualaikum 👋, I'm Majharul Islam Kabir
-### Passionate Front-End Developer from Bangladesh
+---
 
-I’m passionate about blending **Islamic studies** with **front-end development**. My goal is to apply my software development and communication skills to contribute effectively in a dynamic and growth-oriented environment.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Front%20End%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-React.js-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Bangladesh-green?style=for-the-badge" />
+</p>
+
+---
+
+## 📝 About Me  
+I’m passionate about blending **Islamic studies** 📚 with **front-end development** 💻.  
+My goal is to apply my software development and communication skills to contribute effectively in a dynamic and growth-oriented environment.
 
 ---
 
 ## 🚀 Skills
 
-**Front-End:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
-**Basic Knowledge:** Next.js, Node.js, Express.js, MongoDB  
-**Design Tools:** Figma, Pixso  
-**Tools & Technologies:** Firebase, Git, GitHub, VS Code  
+**Front-End:**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Basic Knowledge:**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Design Tools:**  
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-pink?style=for-the-badge)
+
+**Tools & Technologies:**  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Currently
 
 - 🔭 **Working at:** Ahmed's IT Solution  
-- 🌱 **Learning:** Advanced front-end skills while working at Ahmed's IT Solution  
-- 👯 **Collaborating with:** My teacher and teammates  
-- 🤔 **Looking for help with:** Achieving success in my career and life  
+- 🌱 **Learning:** Advanced front-end skills while working  
+- 👯 **Collaborating with:** My teacher & teammates  
+- 🤔 **Looking for help with:** Achieving success in my career & life  
 - 💬 **Ask me about:** Front-end development  
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- **Email:** [majhar13579@gmail.com](mailto:majhar13579@gmail.com)  
-- **GitHub:** [github.com/majharul-islam-kabir](https://github.com/majharul-islam-kabir)
+<p align="left">
+  📧 **Email:** [majhar13579@gmail.com](mailto:majhar13579@gmail.com)  
+  🔗 **GitHub:** [majharul-islam-kabir](https://github.com/majharul-islam-kabir)
+</p>
 
 ---
 
-## 😄 Fun Fact
+## 😄 Fun Fact  
 > To code, you have to eat errors like you eat rice — which happens to me quite often. Sometimes, while eating errors, I even forget to eat rice! 🍚💻
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majharul-islam-kabir&show_icons=true&theme=radical" alt="Majharul's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majharul-islam-kabir&layout=compact&theme=radical" height="150" />
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majharul-islam-kobir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/majharul-islam-0345b7322?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAUU6CdpJTQK8j6YxDWQKiQ%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/majharul.islam.kobir.2024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jovial-starburst-51746b.netlify.app/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=majharul-islam-kobir)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majharul-islam-kobir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=majharul-islam-kobir&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/majharul-islam-kobir/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/majharul-islam-kobir)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=majharul-islam-kobir)  
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majharul-islam-kabir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
