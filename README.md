@@ -1,21 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/178319632?s=400&u=48e118c88c1c78c3d5c8c7d8a0bd6aa7fcb66517&v=4" alt="Majharul Islam Kabir" width="200" style="border-radius: 50%;" />
-
-# Assalamualaikum 👋, I'm Majharul Islam Kabir
-#### I'm a passionate front-end developer from Bangladesh
+![I'm a passionate front-end developer from Bangladesh](https://avatars.githubusercontent.com/u/178319632?s=400&u=48e118c88c1c78c3d5c8c7d8a0bd6aa7fcb66517&v=4)) 
 
 
-Passionate about blending Islamic studies with front-end development. I aim to apply my software development and communication skills to contribute effectively to a dynamic, growth-oriented environment.
-
-Skills: Skills: Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS | Basic Knowledge: Next.js, Node.js, Express.js, MongoDB Design Tools: Figma, Pixso | Tools & Technologies: Firebase, Git, GitHub, VS Code
-
-- 🔭 I’m currently working on I’m currently working on Ahmed's IT Solution 
-- 🌱 I’m currently learning  I’m currently learning in Ahmed's IT Solution with my work 
-- 👯 I’m looking to collaborate on  I’m looking to collaborate on With our teacher 
-- 🤔 I’m looking for help with I’m looking for help with achieving success in my life 
-- 💬 Ask me about  Ask me about front-end development 
-- 📫 How to reach me: How to reach me: You can reach me at my email: majhar13579@gmail.com 
-- 😄 Pronouns:  Pronouns: My pronouns are He/Him 
-- ⚡ Fun fact:  Fun fact: To code, you have to eat errors like you eat rice, which happens to me quite often. Sometimes, while eating errors, I even forget to eat rice 
-
-
-github er jonno etake valokore thik kore dao
+#Assalamualaikum 👋, I'm Majharul Islam kobir #### I'm a passionate front-end developer from Bangladesh Passionate about blending Islamic studies with front-end development. I aim to apply my software development and communication skills to contribute effectively to a dynamic, growth-oriented environment. Skills: Skills: Front-End: HTML, CSS, JavaScript, React.js, Tailwind CSS | Basic Knowledge: Next.js, Node.js, Express.js, MongoDB Design Tools: Figma, Pixso | Tools & Technologies: Firebase, Git, GitHub, VS Code - 🔭 I’m currently working on I’m currently working on Ahmed's IT Solution - 🌱 I’m currently learning I’m currently learning in Ahmed's IT Solution with my work - 👯 I’m looking to collaborate on I’m looking to collaborate on With our teacher - 🤔 I’m looking for help with I’m looking for help with achieving success in my life - 💬 Ask me about Ask me about front-end development - 📫 How to reach me: How to reach me: You can reach me at my email: majhar13579@gmail.com - 😄 Pronouns: Pronouns: My pronouns are He/Him - ⚡ Fun fact: Fun fact: To code, you have to eat errors like you eat rice, which happens to me quite often. Sometimes, while eating errors, I even forget to eat rice
